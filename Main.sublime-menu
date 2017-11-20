@@ -1,0 +1,16 @@
+    [
+{
+    "id" : "preferences",
+    "children":
+    [
+        { "caption": "-", "id": "pepper_sep" },
+        
+        {
+            "checkbox" : true ,
+            "caption" : "Pepper",
+            "id" : "pepper",
+            "command" : "toggle_pepper"
+        }
+    ]
+}
+]

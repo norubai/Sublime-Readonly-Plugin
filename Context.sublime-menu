@@ -1,0 +1,12 @@
+[
+
+	{ "caption": "-", "id": "pepper_sep" },
+        
+    {
+        "checkbox" : true ,
+        "caption" : "Readonly",
+        "id" : "pepper",
+        "command" : "toggle_pepper"
+    }
+
+]
